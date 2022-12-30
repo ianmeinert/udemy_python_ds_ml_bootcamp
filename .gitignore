@@ -2,7 +2,8 @@
 *.vscode/
 
 #Udemy course files
-Spam_assassin_corpus/
+Spam_assassin_corpus
+section_7/SpamData
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
