@@ -6,6 +6,7 @@ Spam_assassin_corpus
 section_7/SpamData
 section_8/SpamData
 .DS_Store
+*logs*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
