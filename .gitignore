@@ -7,6 +7,7 @@ section_7/SpamData
 section_8/SpamData
 .DS_Store
 *logs*
+MNIST/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
