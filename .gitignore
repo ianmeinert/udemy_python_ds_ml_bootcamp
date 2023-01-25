@@ -1,6 +1,9 @@
 # VS Code
 *.vscode/
 
+# IDEA
+.idea
+
 #Udemy course files
 Spam_assassin_corpus
 section_7/SpamData
@@ -9,6 +12,7 @@ section_8/SpamData
 *logs*
 MNIST/
 None/
+SavedModel/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
